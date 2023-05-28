@@ -1,0 +1,2 @@
+# hotstarclone
+contains projects
